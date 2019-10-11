@@ -2,7 +2,9 @@
 
 ## Description
 
-This is a simple tool for converting number grades to letter grades. The program does this by inserting the number grades into an array, and then converting and printing out each letter grade one by one. This project was originally created for an assignment in CS232.
+This is a simple tool for converting number grades to letter grades. The program does this by inserting the number grades into an array, and then converting and printing out each letter grade one by one. 
+
+This project was originally created for an assignment in CS232.
 
 ## Installation
 
