@@ -16,7 +16,7 @@ Please download the Gradeconvert.jar file and run it using an appropriate Java R
 ```
 Please list the grades you wish to convert: 
 ```
-2. The user is allowed to input any number of number grades.
+2. The user is allowed to input any amount of *integer* number grades. 
 ```
 Please list the grades you wish to convert: 
 90
@@ -43,3 +43,4 @@ A
 82 is a B
 65 is a D
 ```
+(Note: Number grades above 100 and below 0 are accepted, but will be converted to As and Fs, respectively.)
