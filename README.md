@@ -2,11 +2,11 @@
 
 ## Description
 
-This is a simple tool for converting number grades to letter grades. The program does this by inserting the number grades into an array, and then converting and printing out each letter grade one by one. 
+This is a simple tool for converting number grades to letter grades. The program does this by inserting the number grades into an array, and then converting and printing out each letter grade one by one. This project was originally created for an assignment in CS232.
 
 ## Installation
 
-Please download the Gradeconvert.jar file and run it using an appropriate Java Runtime Environment. Source code for the program can be viewed as the Gradeconvert.java file.
+Please download the Gradeconvert.jar file and run it using an appropriate Java Runtime Environment. Source code for the program can be viewed via the Gradeconvert.java file.
 
 ## How to Use
 
@@ -21,7 +21,7 @@ Please list the grades you wish to convert:
 82
 65
 ```
-3. Once the user has finish listing the number grades, he or she can convert them by inserting any *non-integer* value.
+3. Once the user has finished listing the number grades, he or she can convert them by inserting any *non-integer* value.
 ```
 Please list the grades you wish to convert: 
 90
