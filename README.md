@@ -1,4 +1,4 @@
-# Letter Grade(s) Converter
+# Number-to-Letter Grade Converter
 
 ## Description
 
