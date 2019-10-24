@@ -2,9 +2,11 @@
 
 ## Description
 
-This is a simple tool for converting number grades to letter grades. The program does this by inserting the number grades into an array, and then converting and printing out each letter grade one by one. 
+This is a simple tool for converting number grades to letter grades. The user can input any amount of whole-number number grades, and the program will return the letter grade equivalents. The program does this by storing the number grade input into an array list, and then converting and printing out each element of the array list one at a time. 
 
-This project was originally created for an assignment in CS232.
+This project was originally created for an assignment in my CS232 class, focusing on the declaration and usage of array lists.
+
+Note: Number grades above 100 and below 0 are accepted, but will be converted to As and Fs, respectively.
 
 ## Installation
 
@@ -43,4 +45,3 @@ A
 82 is a B
 65 is a D
 ```
-(Note: Number grades above 100 and below 0 are accepted, but will be converted to As and Fs, respectively.)
